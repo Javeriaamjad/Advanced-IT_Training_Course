@@ -66,3 +66,29 @@ selected_color = colors[index]
 password = selected_color[::-1]
 print("Selected Color:", selected_color)
 print("Generated Password:", password)
+
+
+#Operators
+
+#Arithmatic Operators
+
+num1 = 10
+num2 = 4
+
+print("Addition:", num1 + num2)
+print("Subtraction:", num1 - num2)
+print("Multiplication:", num1 * num2)
+print("Division:", num1 / num2)
+print("Floor Division", num1 // num2)
+print("Modulus", num1 % num2)
+print("Exponent", num1 ** num2)   #num1 ^ number
+
+#Logical Operators
+p = True
+q= False
+
+print("AND", p and q)
+print("OR", p or q)
+print("NOT", not p)
+
+
