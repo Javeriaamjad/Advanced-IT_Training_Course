@@ -123,7 +123,3 @@ This repository provides structured learning resources, including course materia
 🚀 **This repository is actively updated** with new learning materials and assignments as the course progresses.  
 
 📅 **Last Updated:** March 8, 2025  
-
----
-
-This README file is formatted for clarity and easy readability on GitHub. Let me know if you need any modifications! 😊
