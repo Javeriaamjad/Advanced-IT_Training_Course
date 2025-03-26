@@ -1,0 +1,11 @@
+Id,state,phone_number,account_length,international_plan,voice_mail_plan,total_calls,total_charges,customer_service_calls,churn
+1,NY,123-456-7890,128,Yes,No,300,250.50,1,False
+2,CA,234-567-8901,107,No,Yes,250,200.75,0,False
+3,TX,345-678-9012,75,Yes,Yes,400,350.20,3,True
+4,FL,456-789-0123,156,No,No,200,180.90,2,True
+5,IL,567-890-1234,90,Yes,No,350,300.00,1,False
+6,WA,678-901-2345,120,No,Yes,280,220.30,0,False
+7,OR,789-012-3456,85,Yes,Yes,320,270.10,4,True
+8,NV,890-123-4567,143,No,No,260,210.60,2,True
+9,CO,901-234-5678,98,Yes,No,310,260.80,1,False
+10,AZ,012-345-6789,110,No,Yes,290,230.40,0,False
